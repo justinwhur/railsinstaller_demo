@@ -1,0 +1,36 @@
+$ mkdir rails_projects
+$ cd rails_projects
+$ rails new first_app
+      create  
+      create  README.rdoc
+      create  Rakefile
+      create  config.ru
+      create  .gitignore
+      create  Gemfile
+      create  app
+      create  app/assets/images/rails.png
+      create  app/assets/javascripts/application.js
+      create  app/assets/stylesheets/application.css
+      create  app/controllers/application_controller.rb
+      create  app/helpers/application_helper.rb
+      create  app/mailers
+      create  app/models
+      create  app/views/layouts/application.html.erb
+      create  app/mailers/.gitkeep
+      create  app/models/.gitkeep
+      create  config
+      create  config/routes.rb
+      create  config/application.rb
+      create  config/environment.rb
+      .
+      .
+      .
+      create  vendor/plugins
+      create  vendor/plugins/.gitkeep
+         run  bundle install
+Fetching source index for https://rubygems.org/
+.
+.
+.
+Your bundle is complete! Use `bundle show [gemname]` to see where a bundled
+gem is installed.
